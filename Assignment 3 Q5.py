@@ -1,4 +1,4 @@
-#2
+#5
 alphabet="ABCDEFGHIJK"
 
 for i in range(0,6,1):
